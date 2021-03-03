@@ -1,7 +1,3 @@
-/*
-BOJ 11729
-2021.3.3
- */
 import java.util.Scanner;
 
 public class Main {
